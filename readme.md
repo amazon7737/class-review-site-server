@@ -34,5 +34,8 @@
 
 ### API 구조
 
+![image](https://github.com/amazon7737/class_review_site/assets/76634341/f3994ec4-7f51-495d-932c-ea46905c9b76)
+
+
 ### 구현 및 추가 설명
 
